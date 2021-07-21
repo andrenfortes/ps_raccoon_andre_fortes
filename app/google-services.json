@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683905873785",
+    "project_id": "ps-raccoon-andre-fortes-8f34b",
+    "storage_bucket": "ps-raccoon-andre-fortes-8f34b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683905873785:android:a4c89a2a31831e92a8e1a8",
+        "android_client_info": {
+          "package_name": "com.example.ps_raccoon_andre_fortes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683905873785-t59kbhfj2tpg3iercovu1bas9940vki0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlZJ-I2bx8NckX-J_u_6rGTatK1ZrxyqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683905873785-t59kbhfj2tpg3iercovu1bas9940vki0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

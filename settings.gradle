@@ -1,0 +1,2 @@
+rootProject.name = "ps_raccoon_andre_fortes"
+include ':app'
