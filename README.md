@@ -22,5 +22,7 @@ Para rodar o projeto, será necessário o AndroidStudio para emular o App em um 
 
 Posteriormente, basta clicar no martelinho para "Build" do app. Ele irá rodar e será solicitada a instalação no seu dispositivo.
 
+*OBS: Tive bugs ao tentar usar o Build Tools version 31.0.0, então alterei as configurações para utilizar o 30.0.3*
+
 Quaisquer dúvidas, fico à disposição para respondê-las.
 
