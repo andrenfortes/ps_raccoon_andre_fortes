@@ -1,7 +1,7 @@
-#ENGLISH
+# ENGLISH ![US Flag](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f1fa-1f1f8.png) 
 # PSel_raccoon_Andre_Fortes
 
-## Hello!
+## Hello! 
 
 This is my application that creates a to-do list as requested in the instructions for the selection process :)  
 The learning was done through YouTube lessons and online tutorials to set up the environment, SDK, and device for emulation.
@@ -24,7 +24,7 @@ After that, simply click on the hammer icon to "Build" the app. It will run, and
 
 If you have any questions, I am available to answer them.
 
-#PORTUGUESE 
+# PORTUGUESE ![BR Flag](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f1e7-1f1f7.png)
 # PSel_raccoon_Andre_Fortes
 
 ## Olá! 
