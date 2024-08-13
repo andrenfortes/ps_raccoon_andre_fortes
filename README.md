@@ -1,4 +1,4 @@
-# ENGLISH ![US Flag](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f1fa-1f1f8.png) 
+# ENGLISH ![](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f1fa-1f1f8.png) 
 # PSel_raccoon_Andre_Fortes
 
 ## Hello! 
@@ -24,7 +24,7 @@ After that, simply click on the hammer icon to "Build" the app. It will run, and
 
 If you have any questions, I am available to answer them.
 
-# PORTUGUESE ![BR Flag](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f1e7-1f1f7.png)
+# PORTUGUESE ![](https://twemoji.maxcdn.com/v/13.0.1/72x72/1f1e7-1f1f7.png)
 # PSel_raccoon_Andre_Fortes
 
 ## Olá! 
