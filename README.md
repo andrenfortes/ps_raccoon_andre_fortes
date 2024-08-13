@@ -1,3 +1,30 @@
+#ENGLISH
+# PSel_raccoon_Andre_Fortes
+
+## Hello!
+
+This is my application that creates a to-do list as requested in the instructions for the selection process :)  
+The learning was done through YouTube lessons and online tutorials to set up the environment, SDK, and device for emulation.
+
+The chosen language was _Kotlin_, using the _AndroidStudio_ tool. Below is a screenshot of the home screen:
+<p align="center">
+<img src="https://i.imgur.com/MfXj4xp.jpg" width="220" height="400">
+  </p>
+
+Additionally, there is a connection to a Firebase database linked to my Google account. Any changes made to the App's list will be automatically synchronized with the database.
+
+<center><img src="https://i.imgur.com/tLW91hG.png" width="1200" height="500">  </center>
+
+To run the project, you will need AndroidStudio to emulate the App on an AVD (Android Virtual Device) or to connect the application to a physical Android device.
+![](https://i.imgur.com/6UzM8pr.png)
+
+After that, simply click on the hammer icon to "Build" the app. It will run, and the installation on your device will be requested.
+
+*Note: I encountered bugs when trying to use Build Tools version 31.0.0, so I changed the settings to use version 30.0.3 instead.*
+
+If you have any questions, I am available to answer them.
+
+#PORTUGUESE 
 # PSel_raccoon_Andre_Fortes
 
 ## Olá! 
