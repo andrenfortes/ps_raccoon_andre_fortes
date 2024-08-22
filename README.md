@@ -11,7 +11,10 @@ The To-Do List App is an Android application designed to help users manage their
 - Organize tasks by categories
 - Set reminders for tasks
 - Sync tasks with Google services
-
+<p align="center">
+<img src="https://i.imgur.com/MfXj4xp.jpg" width="220" height="400">
+  </p>
+  
 ## Technologies Used
 
 - **Kotlin**: Primary language for app development
@@ -60,6 +63,8 @@ to_do_list_app/
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
 4. Build and run the app on an emulator or physical device.
+  
+   ![](https://i.imgur.com/6UzM8pr.png)
 
 ## Usage
 
@@ -69,6 +74,9 @@ to_do_list_app/
 4. Mark tasks as completed by checking the checkbox next to the task.
 5. Organize tasks by categories using the category filter.
 6. Set reminders for tasks by selecting the reminder option.
+
+###Firebase connection
+![](https://imgur.com/a/ejMzvND)
 
 ## License
 
