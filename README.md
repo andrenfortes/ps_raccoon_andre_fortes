@@ -75,8 +75,10 @@ to_do_list_app/
 5. Organize tasks by categories using the category filter.
 6. Set reminders for tasks by selecting the reminder option.
 
-###Firebase connection
-![](https://imgur.com/a/ejMzvND)
+
+### Firebase connection
+
+![Firebase Connection](https://i.imgur.com/doev384.png)
 
 ## License
 
